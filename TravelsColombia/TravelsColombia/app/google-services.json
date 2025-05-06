@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "74714698518",
+    "project_id": "linear-passage-458905-f0",
+    "storage_bucket": "linear-passage-458905-f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74714698518:android:10e3d333260f573581f637",
+        "android_client_info": {
+          "package_name": "com.example.travelscolombia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHSWQvWa6Us363l9lRHORUtpCAUYYohVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

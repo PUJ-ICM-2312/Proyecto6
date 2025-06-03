@@ -1,0 +1,152 @@
+{
+  "Andina": [
+    {
+      "nombre": "Bogotá",
+      "lat": 4.711,
+      "lon": -74.0721,
+      "descripcion": "Capital de Colombia"
+    },
+    {
+      "nombre": "Medellín",
+      "lat": 6.2442,
+      "lon": -75.5812,
+      "descripcion": "Capital de Antioquia"
+    },
+    {
+      "nombre": "Tunja",
+      "lat": 5.5353,
+      "lon": -73.3678,
+      "descripcion": "Capital de Boyacá"
+    },
+    {
+      "nombre": "Manizales",
+      "lat": 5.0689,
+      "lon": -75.5174,
+      "descripcion": "Capital de Caldas"
+    },
+    {
+      "nombre": "Ibagué",
+      "lat": 4.4389,
+      "lon": -75.2322,
+      "descripcion": "Capital de Tolima"
+    }
+  ],
+  "Caribe": [
+    {
+      "nombre": "Cartagena",
+      "lat": 10.391,
+      "lon": -75.4794,
+      "descripcion": "Ciudad histórica del Caribe"
+    },
+    {
+      "nombre": "Barranquilla",
+      "lat": 10.9639,
+      "lon": -74.7964,
+      "descripcion": "Capital del Atlántico"
+    },
+    {
+      "nombre": "Santa Marta",
+      "lat": 11.2408,
+      "lon": -74.199,
+      "descripcion": "Capital del Magdalena"
+    },
+    {
+      "nombre": "Riohacha",
+      "lat": 11.5444,
+      "lon": -72.9072,
+      "descripcion": "Capital de La Guajira"
+    },
+    {
+      "nombre": "Sincelejo",
+      "lat": 9.3047,
+      "lon": -75.3978,
+      "descripcion": "Capital de Sucre"
+    }
+  ],
+  "Pacífica": [
+    {
+      "nombre": "Cali",
+      "lat": 3.4516,
+      "lon": -76.532,
+      "descripcion": "Capital del Valle del Cauca"
+    },
+    {
+      "nombre": "Tumaco",
+      "lat": 1.7981,
+      "lon": -78.8066,
+      "descripcion": "Ciudad portuaria del Pacífico"
+    },
+    {
+      "nombre": "Buenaventura",
+      "lat": 3.8801,
+      "lon": -77.0312,
+      "descripcion": "Principal puerto sobre el Pacífico"
+    },
+    {
+      "nombre": "Quibdó",
+      "lat": 5.6947,
+      "lon": -76.6612,
+      "descripcion": "Capital del Chocó"
+    }
+  ],
+  "Orinoquía": [
+    {
+      "nombre": "Villavicencio",
+      "lat": 4.142,
+      "lon": -73.6266,
+      "descripcion": "Puerta de los Llanos"
+    },
+    {
+      "nombre": "Yopal",
+      "lat": 5.3378,
+      "lon": -72.3959,
+      "descripcion": "Capital de Casanare"
+    },
+    {
+      "nombre": "Arauca",
+      "lat": 7.09,
+      "lon": -70.7617,
+      "descripcion": "Capital de Arauca"
+    },
+    {
+      "nombre": "Puerto Carreño",
+      "lat": 6.1858,
+      "lon": -67.4859,
+      "descripcion": "Capital de Vichada"
+    }
+  ],
+  "Amazonía": [
+    {
+      "nombre": "Leticia",
+      "lat": -4.215,
+      "lon": -69.9406,
+      "descripcion": "Capital del Amazonas"
+    },
+    {
+      "nombre": "Florencia",
+      "lat": 1.6144,
+      "lon": -75.6062,
+      "descripcion": "Capital de Caquetá"
+    },
+    {
+      "nombre": "Mocoa",
+      "lat": 1.147,
+      "lon": -76.6479,
+      "descripcion": "Capital del Putumayo"
+    },
+    {
+      "nombre": "San José del Guaviare",
+      "lat": 2.5728,
+      "lon": -72.6459,
+      "descripcion": "Capital de Guaviare"
+    }
+  ],
+  "Insular": [
+    {
+      "nombre": "San Andrés",
+      "lat": 12.5847,
+      "lon": -81.7006,
+      "descripcion": "Isla del Caribe colombiano"
+    }
+  ]
+}
